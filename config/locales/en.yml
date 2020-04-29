@@ -237,6 +237,7 @@ en:
     submit: Submit
   go_back: Go back
   greenlight: Autonetic Connect
+  autonetic_cloud: Autonetic Cloud
   header:
     all_recordings: All Recordings
     dropdown:
@@ -260,7 +261,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "Create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "Web Conferencing Platorm."
     welcome: Welcome to Autonetic Connect.
     video: Watch our tutorial on using Autonetic Connect
     upgrade: Show me how to upgrade to 2.0!
